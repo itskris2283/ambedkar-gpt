@@ -285,14 +285,6 @@ Potential improvements for a production system:
 
 ---
 
-## 👨‍💻 Author
-
-**Created for:** Kalpit Pvt Ltd, UK - AI Intern Assignment  
-**Date:** November 2025  
-**Contact:** [Your GitHub Profile]
-
----
-
 ## 📄 License
 
 This project is created for educational and assignment purposes.
