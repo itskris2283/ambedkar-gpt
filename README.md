@@ -2,8 +2,6 @@
 
 A Retrieval-Augmented Generation (RAG) based Q&A system that answers questions about Dr. B.R. Ambedkar's speech on the "Annihilation of Caste."
 
-**Built for:** Kalpit Pvt Ltd, UK - AI Intern Hiring Assignment
-
 ---
 
 ## 🎯 Project Overview
